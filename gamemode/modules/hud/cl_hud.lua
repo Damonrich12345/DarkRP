@@ -5,10 +5,10 @@ local ConVars = {}
 local HUDWidth
 local HUDHeight
 
-local Color = Color
+local Color = Color(0, 0, 0, 255)
 local CurTime = CurTime
 local cvars = cvars
-local DarkRP = DarkRP
+local DarkRP = HarborRP
 local draw = draw
 local GetConVar = GetConVar
 local hook = hook
